@@ -1,5 +1,5 @@
 <?php
-/hellow world/
+/*hellow world/
 /**
  * CodeIgniter
  *
